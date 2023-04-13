@@ -20,6 +20,6 @@ It should look something like this.
 - Click the Check Mark to solve the cube
 - Hover over any of the three faces and use the left and right arrows to rotate the selected face clockwise and counterclockwise respectively
 
-![RubiksCubeSim](./images/RubiksCubeSim_example_image.png')
+![RubiksCubeSim](./images/RubiksCubeSim_example_image.png)
 
 Enjoy!
